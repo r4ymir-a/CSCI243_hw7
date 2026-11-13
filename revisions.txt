@@ -1,0 +1,11 @@
+commit 4876b2b4b354d62aa9ebf6e98e18b4748114f1f6
+Author: Raymir A <rma8154@rit.edu>
+Date:   Fri Nov 13 17:09:02 2026 -0500
+
+    baseline: all files
+
+commit f9007b47445c78d7209dd91c814e38185f68a13f
+Author: Raymir A <102107898+r4ymir-a@users.noreply.github.com>
+Date:   Fri Nov 13 17:07:51 2026 -0500
+
+    Initial commit
